@@ -342,8 +342,8 @@ links in Section 2.
 
 ## 9. License
 
-Code in this repository is released under the **Apache License 2.0** — see
-[`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). Copyright 2026 Swaroop Naik.
+Code in this repository is released under the **MIT License** — see
+[`LICENSE`](LICENSE). Copyright (c) 2026 Swaroop Naik.
 
 The three datasets are **not** covered by that licence and remain under their own
 respective terms; obtain them from the sources in Section 2 and cite them
